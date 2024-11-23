@@ -1,0 +1,5 @@
+public class Ayman{
+    public static void dsalld.main(String[] args){
+        System.out.println("hello");
+    }
+}
